@@ -80,15 +80,6 @@ To run the code, follow these steps:
 
 This will download the dataset, train the model, and save the trained model.
 
-## Results and Evaluation
-
-- **Performance**: The model achieves high classification accuracy on the flower dataset by utilizing the power of transfer learning with ResNet-50.
-- **Efficiency**: Training with a pre-trained model significantly reduces training time and improves overall performance.
-
-## Future Work
-
-- **Fine-Tuning**: Unfreezing some layers of ResNet-50 and fine-tuning with a low learning rate could further improve performance.
-- **Hyperparameter Tuning**: Experimenting with different learning rates, batch sizes, and augmentation techniques could yield better results.
 
 ## Acknowledgements
 
